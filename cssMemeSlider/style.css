@@ -11,14 +11,14 @@
 
   .navigation{
     position: absolute;
-    bottom: 7%;
+    bottom: 4.5%;
     left: 90%;
     transform: translateX(-90%);
     display: flex;
 }
 
 .caption p{
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
 }
 }
