@@ -107,7 +107,7 @@ input[name="r"] {
     transition: all .9s ease;   
 }
 .img {
-    background-color: #fff;
+    background-color: #222020;
     width: 100%;
     display: flex;
     justify-content: center;
